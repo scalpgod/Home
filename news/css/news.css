@@ -84,82 +84,82 @@ margin-bottom: 0px !important;
 
 .Macro a:hover, a.focused {
   	background: red !important;
-  	font-size: 14px;
+  	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Macro { 
 	background: red !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Money a:hover, a.focused {
   	background: red !important;
-  	font-size: 14px;
+  	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Money { 
 	background: red !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Equity a:hover, a.focused {
   	background: blue !important;
-	font-size: 14px;
+	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Equity { 
 	background: blue !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Commo a:hover, a.focused {
   background: orange !important;
-	font-size: 14px;
+	font-size: 12px;
 	text-shadow: none !important;
 }
 
 .Commo { 
 	background: orange !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	text-shadow: none !important;
 }
 
 .Policy a:hover, a.focused {
   	background: green !important;
-	font-size: 14px;	
+	font-size: 12px;	
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Policy { 
 	background: green !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Technical a:hover, a.focused {
   	background: purple !important;
-	font-size: 14px;
+	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Technical { 
 	background: purple !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
@@ -167,54 +167,54 @@ margin-bottom: 0px !important;
 
 .World a:hover, a.focused {
   	background: silver !important;
-	font-size: 14px;
+	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .World { 
 	background: silver !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Research a:hover, a.focused {
   	background: fuchsia !important;
-	font-size: 14px;
+	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Research { 
 	background: fuchsia !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Auction a:hover, a.focused {
   background: blue !important;
-	font-size: 14px;
+	font-size: 12px;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Auction { 
 	background: blue !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 	color: white !important;
 	text-shadow: none !important;
 }
 
 .Options a:hover, a.focused {
   background: lawngreen !important;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 .Options { 
 	background: lawngreen !important;
-	font-size: 14px !important;
+	font-size: 12px !important;
 }
 
 
