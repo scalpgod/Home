@@ -213,14 +213,17 @@ function socket_connection_start(server) {
 							
 
 							if (mycategory == "Equity/Debt") {
-								mycategory = "Equity";
+								mycategory = "E";
 							}
 
 							if (mycategory == "World Events") {
-								mycategory = "World";
+								mycategory = "W";
 							}
 							if (mycategory == "Policymaker") {
-								mycategory = "Policy";
+								mycategory = "P";
+							}
+							if (mycategory == "Macro") {
+								mycategory = "M";
 							}
 
 							if (mybody == "") {
@@ -263,26 +266,8 @@ function newsAdd(jsonObj) { //add new wire news pushed by Main widget window
 	if (topic == "Policymaker") {
 		topic = "Policy";
 	}
-	//var myInstr = jsonObj.instrument;
-	//var RangeTest = isinRange(newstime);
-	//var InstrumentTest = isInstrument(myInstr);
-	//if (RangeTest === true && InstrumentTest === true) {
-	//transform JSON object to Highcharts series data
-	data = {
-		x: jsonObj.date,
-		id: jsonObj.id,
-		//url: jsonObj.url,
-		text: jsonObj.title,
-		//wire: jsonObj.wire_category[0],
-		wireIDs: jsonObj.channels,
-		topic: topic
-	};
-	//call function to find series index for given topic in JSON object
-	seriesindex = IndexTopic(topic);
-	console.log("newsadd", topic, seriesindex,jsonObj.title)
-	var series = chart.series[seriesindex];
-	series.addPoint(data, true);
-	//alert("Chart - News Add: " + jsonObj.title);
+
+	
 }
 
 </script>
