@@ -173,7 +173,7 @@ function new_update_session_info() {
                             delay_target: 0,
                             op_sys: '',
                             flash_version: '',
-                            http_referrer: http_referrer,
+                            http_referrer: '',
                             php_session_id: php_session_id,
                             user_email: session_info['session_email'],
                             webrtc_protocol: session_info['webrtc_protocol'],
