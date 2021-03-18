@@ -1,7 +1,7 @@
 var remoteVideo = null;
 var peerConnection = null;
 var peerConnectionConfig = {'iceServers': []};
-//var peerConnectionConfig = {'iceServers': [{"urls":"turn:52.208.14.5", username: "pip", credential: "0x45ce0eb8ec0506df8f25f204cb2ce8e2"}]};
+// var peerConnectionConfig = {'iceServers': [{"urls":"turn:52.208.14.5", username: "pip", credential: "0x45ce0eb8ec0506df8f25f204cb2ce8e2"}]};
 var localStream = null;
 var wsURL = "wss://5ec3b203a6241.streamlock.net/webrtc-session.json";
 var wsConnection = null;
