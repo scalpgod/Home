@@ -53,7 +53,7 @@ if (!$("script[src='partner_messenger/js/partner_messenger.js']").length) {
         src: "partner_messenger/js/partner_messenger.js"
     });
 }
-var ls_messenger_partner_name = 'Trading Floor';
+var ls_messenger_partner_name = 'Convergent Trading';
 $(window).on('load', function() {
     messenger_start_loaded();
 });

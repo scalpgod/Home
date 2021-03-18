@@ -84,7 +84,7 @@ function socket_connection_start(server) {
               $('.output').append('Connected to server '+current_server+'<br>');
               if (current_server == distributor_server) { socket.emit('request_server_assignment'); }
               else {
-              socket.emit('join_channel', {publisher_channel: publisher_channel, username: 'Trading Floor', subscriber_group: '', display_name: 'Trading Floor', single_sign_on: '' });  
+              socket.emit('join_channel', {publisher_channel: publisher_channel, username: 'Convergent Trading', subscriber_group: '', display_name: 'Convergent Trading', single_sign_on: '' });  
               }
         
            });
