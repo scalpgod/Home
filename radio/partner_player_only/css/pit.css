@@ -1,0 +1,95 @@
+.player__outer {
+	background-color: #fff;
+	color: #0e7890;
+	border: 1px solid #0e7890;
+	border-radius: 10px;
+	height: 58px;
+	box-sizing: border-box
+}
+
+.player__middle {
+	color: #fff
+}
+
+.header__player__strip {
+	background-color: #fff;
+	border: 1px solid #0e7890;
+	border-radius: 10px;
+	color: #fff
+}
+
+.header__player__strip__button a {
+	border: 1px solid #0e7890;
+	background-color: #0e7890;
+	color: #fff
+}
+
+.header__player__strip__button a:hover {
+	background-color: #fff;
+	border: 1px solid #0e7890;
+	color: #0e7890
+}
+
+.volume__knob {
+	fill: #0e7890!important
+}
+
+.webrtc__volume__knob svg {
+	fill: #0e7890!important
+}
+
+.volume__background {
+	border-top-color: #ffa000
+}
+
+.volume__progress {
+	background-color: #0e7890
+}
+
+.webrtc__player__outer {
+	background-color: #fff;
+	border: 1px solid #0e7890;
+	border-radius: 10px
+}
+
+.webrtc__volume__label {
+	color: #0e7890
+}
+
+.webrtc__volume__progress {
+	background-color: #0e7890
+}
+
+.webrtc__volume_mute_icon svg {
+	fill: #0e7890
+}
+
+.webrtc__player__middle {
+	background-color: rgba(47,39,37,.8)
+}
+
+.webrtc__player__middle--on-air {
+	background-color: #0e7890
+}
+
+.webrtc__player__status__outer {
+	color: #0e7890
+}
+
+.qos_bar {
+	background-color: #ffa000
+}
+
+.qos_bar_inner {
+	background-color: #0e7890
+}
+
+.header__player__strip__player__icon svg {
+	fill: #0e7890
+}
+
+@media only screen and (max-width:780px) {
+	.webrtc__player__onair__text {
+		color: #0e7890
+	}
+}
