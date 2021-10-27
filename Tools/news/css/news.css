@@ -1,0 +1,220 @@
+#select-native-2-button {
+	padding-top: 5px;
+	padding-left:5px;	
+	font-weight: lighter !important;
+}
+
+a {
+	text-shadow: none !important;	
+}
+
+.ui-checkbox-on {
+	border-width: 0px !important;
+	border-radius: 1px !important;
+}
+
+.ui-checkbox {
+	border-width: 0px !important;
+	border-radius: 3px !important;
+}
+
+.ui-field-contain {
+	z-index: 5;
+	position: fixed;	
+	width: 85px;	
+	top: -18px;
+	left: 20px; 
+	
+}
+
+.ui-checkbox label  {
+	padding-top:4px;
+	padding-bottom:4px;
+	font-weight: lighter !important;;
+	
+}
+
+.form {
+	z-index: 3;
+	position: fixed;
+	top: 1px;
+	left: 120px;	
+
+}
+
+.panel {	
+    color: white;
+	z-index: 5;	
+	top: 10px;
+	position:fixed;
+}
+
+.latest{
+color: #E4700B;
+font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+font-size: 14px;
+font-weight: bold;
+margin-left: 15px;
+margin-bottom: 0px;
+margin-top: -20px;
+padding-bottom: 0px;
+text-align: left;
+position: relative;
+}
+
+#chart {
+position: fixed;
+z-index: 2;
+width: 100%;
+}
+
+#custom-collapsible p {
+font-size: 8px !important;
+}
+
+#calendar {
+margin-top: 400px !important;
+margin-bottom: 0px !important;
+}
+
+#page .ui-content #calendar p {
+	font-size: 13px !important;
+	font-family: inherit;
+}
+
+.Macro a:hover, a.focused {
+  	background: #373737 !important;
+  	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Macro { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Money a:hover, a.focused {
+  	background: #373737 !important;
+  	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Money { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Equity a:hover, a.focused {
+  	background: #373737 !important;
+	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Equity { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Commo a:hover, a.focused {
+  background: #373737 !important;
+	font-size: 12px;
+	text-shadow: none !important;
+}
+
+.Commo { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	text-shadow: none !important;
+}
+
+.Policy a:hover, a.focused {
+  	background: #373737 !important;
+	font-size: 12px;	
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Policy { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Technical a:hover, a.focused {
+  	background: #373737 !important;
+	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Technical { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+
+.World a:hover, a.focused {
+  	background: #373737 !important;
+	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.World { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Research a:hover, a.focused {
+  	background: #373737 !important;
+	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Research { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Auction a:hover, a.focused {
+  background: #373737 !important;
+	font-size: 12px;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Auction { 
+	background: #373737 !important;
+	font-size: 12px !important;
+	color: white !important;
+	text-shadow: none !important;
+}
+
+.Options a:hover, a.focused {
+  background: #373737 !important;
+	font-size: 12px;
+}
+
+.Options { 
+	background: #373737 !important;
+	font-size: 12px !important;
+}
+
+
